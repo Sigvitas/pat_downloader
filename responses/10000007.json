@@ -1,0 +1,94 @@
+{
+  "applicationMetaData": {
+    "filingDate": "2001-10-31T00:00:00",
+    "effectiveFilingDate": "2001-10-31T00:00:00",
+    "subclass": "007000",
+    "groupArtUnitNumber": "1654",
+    "firstInventorToFileIndicator": "N",
+    "inventionSubjectMatterCategory": "UTL",
+    "statusNumber": "161",
+    "nationalStageIndicator": "N",
+    "applicationStatusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+    "viewTypeCategory": "public",
+    "applicationIdentification": {
+      "applicationNumberText": "10000007         "
+    },
+    "customerNumber": "23492",
+    "class": "514",
+    "docketNumber": "6852.US.01",
+    "applicationConfirmationNumber": "7964",
+    "inventionTitle": "Penta- and hexapeptides having antiangiogenic activity",
+    "applicationStatusDate": "2004-03-08T08:43:51",
+    "applicationTypeCategory": "REGULAR",
+    "status": "FAILURE"
+  },
+  "childContinuityBag": [
+    {
+      "claimType": "CON",
+      "patentNumber": null,
+      "publicIndicator": false,
+      "parentApplicationNumberText": "10000007",
+      "childApplicationNumberText": "10000007",
+      "filingDate": "2002-10-30T00:00:00",
+      "applicationStatusCategory": "275",
+      "statusDescriptionText": "PCT - IPER (International Preliminary Examination Report) 409-416 Mailed",
+      "aiaIndicator": false
+    },
+    {
+      "claimType": "CIP",
+      "patentNumber": null,
+      "publicIndicator": false,
+      "parentApplicationNumberText": "10000007",
+      "childApplicationNumberText": "10000007",
+      "filingDate": "2002-10-04T00:00:00",
+      "applicationStatusCategory": "168",
+      "statusDescriptionText": "Expressly Abandoned  --  During Examination",
+      "aiaIndicator": false
+    }
+  ],
+  "inventorBag": [
+    {
+      "nameLineOneText": "Fortuna Haviv",
+      "firstName": "Fortuna",
+      "lastName": "Haviv",
+      "cityName": "Deerfield",
+      "geographicRegionName": "ILLINOIS",
+      "countryCode": "US"
+    },
+    {
+      "nameLineOneText": "Michael Bradley",
+      "firstName": "Michael",
+      "middleName": "F.",
+      "lastName": "Bradley",
+      "cityName": "Wadsworth",
+      "geographicRegionName": "ILLINOIS",
+      "countryCode": "US"
+    }
+  ],
+  "correspondenceAddress": {
+    "nameLineOneText": "Abbott Patent Department",
+    "nameLineTwoText": "ABBOTT LABORATORIES",
+    "addressLineOneText": "100 ABBOTT PARK ROAD",
+    "addressLineTwoText": "AP6A-1",
+    "cityName": "ABBOTT PARK",
+    "geographicRegionCode": "IL",
+    "geographicRegionName": "ILLINOIS",
+    "countryCode": "US",
+    "countryName": "UNITED STATES"
+  },
+  "entityStatusData": {
+    "smallBusinessIndicator": false,
+    "businessEntityStatusCategory": "LARGE/UNDISCOUNTED"
+  },
+  "preGrantPublicationData": [
+    {
+      "ipOfficeCode": "US",
+      "publicationYear": 2003,
+      "publicationSequenceNumber": "0125261",
+      "patentDocumentKindCode": "A1",
+      "publicationDate": "2003-07-03T00:00:00"
+    }
+  ],
+  "feePaymentHistory": [],
+  "status": "SUCCESS"
+}

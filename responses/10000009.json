@@ -1,0 +1,522 @@
+{
+  "applicationMetaData": {
+    "filingDate": "2001-12-04T00:00:00",
+    "effectiveFilingDate": "2001-12-04T00:00:00",
+    "grantDate": "2004-08-03T00:00:00",
+    "subclass": "715000",
+    "groupArtUnitNumber": "1763",
+    "firstInventorToFileIndicator": "N",
+    "inventionSubjectMatterCategory": "UTL",
+    "patentNumber": "6770145",
+    "statusNumber": "150",
+    "nationalStageIndicator": "N",
+    "applicationStatusDescriptionText": "Patented Case",
+    "viewTypeCategory": "public",
+    "applicationIdentification": {
+      "applicationNumberText": "10000009         "
+    },
+    "customerNumber": "6449",
+    "class": "118",
+    "docketNumber": "108384-00005",
+    "applicationConfirmationNumber": "7966",
+    "inventionTitle": "LOW-PRESSURE CVD APPARATUS AND METHOD OF MANUFACTURING A THIN FILM",
+    "applicationStatusDate": "2004-07-15T17:57:50",
+    "applicationTypeCategory": "REGULAR",
+    "status": "FAILURE"
+  },
+  "parentContinuityBag": [
+    {
+      "claimType": "PRO",
+      "patentNumber": null,
+      "publicIndicator": false,
+      "parentApplicationNumberText": "60254193",
+      "childApplicationNumberText": "60254193",
+      "filingDate": "2000-12-11T00:00:00",
+      "applicationStatusCategory": "159",
+      "statusDescriptionText": "Provisional Application Expired",
+      "aiaIndicator": false
+    }
+  ],
+  "inventorBag": [
+    {
+      "nameLineOneText": "Masayuki Saito",
+      "firstName": "Masayuki",
+      "lastName": "Saito",
+      "cityName": "Kanagawa",
+      "countryCode": "JP"
+    }
+  ],
+  "assigneeBag": [
+    {
+      "organizationStandardName": "Tanaka Kikinzoku Kogyo K.K"
+    }
+  ],
+  "correspondenceAddress": {
+    "nameLineOneText": "ROTHWELL, FIGG, ERNST & MANBECK, P.C.",
+    "addressLineOneText": "901 New York Avenue, N.W.",
+    "addressLineTwoText": "SUITE 900 East",
+    "cityName": "WASHINGTON",
+    "geographicRegionCode": "DC",
+    "geographicRegionName": "DISTRICT OF COLUMBIA",
+    "countryCode": "US",
+    "countryName": "UNITED STATES"
+  },
+  "entityStatusData": {
+    "smallBusinessIndicator": false,
+    "businessEntityStatusCategory": "LARGE/UNDISCOUNTED"
+  },
+  "examinerDetails": {
+    "givenName": "RUDY",
+    "middleName": null,
+    "familyName": "ZERVIGON",
+    "phoneNumber": null
+  },
+  "preGrantPublicationData": [
+    {
+      "ipOfficeCode": "US",
+      "publicationYear": 2002,
+      "publicationSequenceNumber": "0069825",
+      "patentDocumentKindCode": "A1",
+      "publicationDate": "2002-06-13T00:00:00"
+    }
+  ],
+  "patentTermData": {
+    "patentTermDetailBag": [
+      {
+        "caseActionSequenceNumber": 48,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-08-03T00:00:00",
+        "applicationStatusDescriptionText": "Patent Issue Date Used in PTA Calculation",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 47,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-07-07T00:00:00",
+        "applicationStatusDescriptionText": "Receipt into Pubs",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 46,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-07-02T00:00:00",
+        "applicationStatusDescriptionText": "Dispatch to FDC",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 45,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-07-02T00:00:00",
+        "applicationStatusDescriptionText": "Application Is Considered Ready for Issue",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 44,
+        "startSequenceNumber": 0,
+        "actionDate": "2001-12-04T00:00:00",
+        "applicationStatusDescriptionText": "Workflow - Drawings Finished",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 43,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-05-26T00:00:00",
+        "applicationStatusDescriptionText": "Issue Fee Payment Verified",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 42,
+        "startSequenceNumber": 42,
+        "actionDate": "2004-05-04T00:00:00",
+        "applicationStatusDescriptionText": "Miscellaneous Incoming Letter",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 92
+      },
+      {
+        "caseActionSequenceNumber": 41,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-06-15T00:00:00",
+        "applicationStatusDescriptionText": "Receipt into Pubs",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 40,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-05-26T00:00:00",
+        "applicationStatusDescriptionText": "Issue Fee Payment Received",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 39,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-05-07T00:00:00",
+        "applicationStatusDescriptionText": "Receipt into Pubs",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 38,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-05-06T00:00:00",
+        "applicationStatusDescriptionText": "Workflow - File Sent to Contractor",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 37,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-19T00:00:00",
+        "applicationStatusDescriptionText": "Correspondence Address Change",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 36,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-19T00:00:00",
+        "applicationStatusDescriptionText": "Mail Notice of Allowance",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 35,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-19T00:00:00",
+        "applicationStatusDescriptionText": "Mail  Formal Drawings Required",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 34,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-16T00:00:00",
+        "applicationStatusDescriptionText": "Issue Revision Completed",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 33,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-16T00:00:00",
+        "applicationStatusDescriptionText": "Formal Drawings Required",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 32,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-16T00:00:00",
+        "applicationStatusDescriptionText": "Notice of Allowance Data Verification Completed",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 31,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-04-16T00:00:00",
+        "applicationStatusDescriptionText": "Allowability Notice",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 30,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-02-17T00:00:00",
+        "applicationStatusDescriptionText": "IFW Amended case processing Complete",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 29,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-02-17T00:00:00",
+        "applicationStatusDescriptionText": "Date Forwarded to Examiner",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 28,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-02-10T00:00:00",
+        "applicationStatusDescriptionText": "Appeal Brief Filed",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 27,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-01-15T00:00:00",
+        "applicationStatusDescriptionText": "Mail Advisory Action (PTOL - 303)",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 26,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-01-08T00:00:00",
+        "applicationStatusDescriptionText": "Advisory Action (PTOL-303)",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 25,
+        "startSequenceNumber": 0,
+        "actionDate": "2004-01-06T00:00:00",
+        "applicationStatusDescriptionText": "Date Forwarded to Examiner",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 24,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-12-10T00:00:00",
+        "applicationStatusDescriptionText": "Amendment/Argument after Notice of Appeal",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 23,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-12-10T00:00:00",
+        "applicationStatusDescriptionText": "Notice of Appeal Filed",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 22,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-12-18T00:00:00",
+        "applicationStatusDescriptionText": "Mail Examiner Interview Summary (PTOL - 413)",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 21,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-12-09T00:00:00",
+        "applicationStatusDescriptionText": "Interview Summary Record",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 20,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-12-09T00:00:00",
+        "applicationStatusDescriptionText": "Interview Summary Record",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 19,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-12-09T00:00:00",
+        "applicationStatusDescriptionText": "Interview Summary Record",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 18,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-10-07T00:00:00",
+        "applicationStatusDescriptionText": "Correspondence Address Change",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 17,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-09-10T00:00:00",
+        "applicationStatusDescriptionText": "Mail Final Rejection (PTOL - 326)",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 16,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-09-08T00:00:00",
+        "applicationStatusDescriptionText": "Final Rejection",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 15,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-08-28T00:00:00",
+        "applicationStatusDescriptionText": "Correspondence Address Change",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 14,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-07-02T00:00:00",
+        "applicationStatusDescriptionText": "Date Forwarded to Examiner",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 13,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-06-27T00:00:00",
+        "applicationStatusDescriptionText": "Response after Non-Final Action",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 12,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-04-14T00:00:00",
+        "applicationStatusDescriptionText": "Correspondence Address Change",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 11,
+        "startSequenceNumber": -1,
+        "actionDate": "2003-03-27T00:00:00",
+        "applicationStatusDescriptionText": "Mail Non-Final Rejection",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": 51,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 10,
+        "startSequenceNumber": 0,
+        "actionDate": "2003-03-24T00:00:00",
+        "applicationStatusDescriptionText": "Non-Final Rejection",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 9,
+        "startSequenceNumber": 0,
+        "actionDate": "2002-10-03T00:00:00",
+        "applicationStatusDescriptionText": "Case Docketed to Examiner in GAU",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 8,
+        "startSequenceNumber": 0,
+        "actionDate": "2002-08-23T00:00:00",
+        "applicationStatusDescriptionText": "Case Docketed to Examiner in GAU",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 7,
+        "startSequenceNumber": 0,
+        "actionDate": "2001-12-04T00:00:00",
+        "applicationStatusDescriptionText": "Preliminary Amendment",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 6,
+        "startSequenceNumber": 0,
+        "actionDate": "2002-02-04T00:00:00",
+        "applicationStatusDescriptionText": "Case Docketed to Examiner in GAU",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 5,
+        "startSequenceNumber": 0,
+        "actionDate": "2002-01-25T00:00:00",
+        "applicationStatusDescriptionText": "Application Dispatched from OIPE",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 4,
+        "startSequenceNumber": 0,
+        "actionDate": "2002-01-23T00:00:00",
+        "applicationStatusDescriptionText": "Application Is Now Complete",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 3,
+        "startSequenceNumber": 0,
+        "actionDate": "2002-01-08T00:00:00",
+        "applicationStatusDescriptionText": "IFW Scan & PACR Auto Security Review",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      },
+      {
+        "caseActionSequenceNumber": 2,
+        "startSequenceNumber": 0,
+        "actionDate": "2001-12-04T00:00:00",
+        "applicationStatusDescriptionText": "Initial Exam Team nn",
+        "ptaPteCode": "PTA",
+        "ipOfficeDelayDayQuantity": null,
+        "applicantDayQuantity": 0
+      }
+    ],
+    "patentTermSummaryData": {
+      "applicantDayDelayQuantity": 92,
+      "adjustmentTotalQuantity": 0,
+      "ipOfficeDayDelayQuantity": 51,
+      "ipOfficeAdjustmentDelayQuantity": 0,
+      "aDelayQuantity": 51,
+      "bDelayQuantity": 0,
+      "cDelayQuantity": 0,
+      "overlappingDayQuantity": 0
+    }
+  },
+  "feePaymentHistory": [],
+  "status": "SUCCESS"
+}

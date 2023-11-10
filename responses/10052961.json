@@ -1,0 +1,119 @@
+{
+  "applicationMetaData": {
+    "filingDate": "2002-01-18T00:00:00",
+    "effectiveFilingDate": "2002-01-18T00:00:00",
+    "subclass": "401000",
+    "groupArtUnitNumber": "1627",
+    "firstInventorToFileIndicator": "N",
+    "inventionSubjectMatterCategory": "UTL",
+    "statusNumber": "163",
+    "nationalStageIndicator": "N",
+    "applicationStatusDescriptionText": "Abandoned  --  After Examiner's Answer or Board of Appeals Decision",
+    "viewTypeCategory": "public",
+    "applicationIdentification": {
+      "applicationNumberText": "10052961         "
+    },
+    "customerNumber": "23432",
+    "class": "514",
+    "docketNumber": "44657-AAA-PCT-US/JPW",
+    "applicationConfirmationNumber": "3958",
+    "inventionTitle": "Method for ameliorating muscle weakness/wasting in a patient infected with human immunodeficiency virus-type 1",
+    "applicationStatusDate": "2014-09-02T18:47:14",
+    "applicationTypeCategory": "REGULAR",
+    "status": "FAILURE"
+  },
+  "parentContinuityBag": [
+    {
+      "claimType": "CON",
+      "patentNumber": "6670351",
+      "publicIndicator": false,
+      "parentApplicationNumberText": "09469817",
+      "childApplicationNumberText": "09469817",
+      "filingDate": "1999-12-22T00:00:00",
+      "applicationStatusCategory": "250",
+      "statusDescriptionText": "Patent Expired Due to NonPayment of Maintenance Fees Under 37 CFR 1.362",
+      "aiaIndicator": false
+    },
+    {
+      "claimType": "CON",
+      "patentNumber": "6090799",
+      "publicIndicator": false,
+      "parentApplicationNumberText": "08244988",
+      "childApplicationNumberText": "08244988",
+      "filingDate": "1995-06-22T00:00:00",
+      "applicationStatusCategory": "150",
+      "statusDescriptionText": "Patented Case",
+      "aiaIndicator": false
+    },
+    {
+      "claimType": "NST",
+      "patentNumber": null,
+      "publicIndicator": false,
+      "parentApplicationNumberText": "PCT/US93/10063",
+      "childApplicationNumberText": "PCT/US93/10063",
+      "filingDate": "1993-10-20T00:00:00",
+      "applicationStatusCategory": "163",
+      "statusDescriptionText": "Abandoned  --  After Examiner's Answer or Board of Appeals Decision",
+      "aiaIndicator": false
+    }
+  ],
+  "childContinuityBag": [
+    {
+      "claimType": "CON",
+      "patentNumber": null,
+      "publicIndicator": false,
+      "parentApplicationNumberText": "10052961",
+      "childApplicationNumberText": "10052961",
+      "filingDate": "2007-03-20T00:00:00",
+      "applicationStatusCategory": "161",
+      "statusDescriptionText": "Abandoned  --  Failure to Respond to an Office Action",
+      "aiaIndicator": false
+    }
+  ],
+  "inventorBag": [
+    {
+      "nameLineOneText": "Joseph Berger",
+      "firstName": "Joseph",
+      "middleName": "R.",
+      "lastName": "Berger",
+      "cityName": "Miami",
+      "geographicRegionName": "FLORIDA",
+      "countryCode": "US"
+    }
+  ],
+  "assigneeBag": [
+    {
+      "organizationStandardName": "BTG Pharmaceutical Corp."
+    }
+  ],
+  "correspondenceAddress": {
+    "nameLineOneText": "Gary J. Gershik; John P. White",
+    "addressLineOneText": "405 LEXINGTON AVENUE",
+    "cityName": "NEW YORK",
+    "geographicRegionCode": "NY",
+    "geographicRegionName": "NEW YORK",
+    "countryCode": "US",
+    "countryName": "UNITED STATES"
+  },
+  "entityStatusData": {
+    "smallBusinessIndicator": false,
+    "businessEntityStatusCategory": "SMALL"
+  },
+  "examinerDetails": {
+    "givenName": "SHENGJUN",
+    "middleName": null,
+    "familyName": "WANG",
+    "phoneNumber": null
+  },
+  "preGrantPublicationData": [
+    {
+      "ipOfficeCode": "US",
+      "publicationYear": 2002,
+      "publicationSequenceNumber": "0091155",
+      "patentDocumentKindCode": "A1",
+      "publicationDate": "2002-07-11T00:00:00"
+    }
+  ],
+  "feePaymentHistory": [],
+  "status": "SUCCESS"
+}
